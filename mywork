@@ -1,0 +1,13 @@
+# LEDGER (proof-of-existence)
+
+```
+87ef995d9cbb9ff4bb8837638840aeabba3bd20af442decf0c6c63a9d328ae45
+```
+
+- sealed JST: `2026-06-01T08:24:19+09:00`
+- sealed UTC: `2026-05-31T23:24:19+00:00` / UNIX `1780269859`
+- files: **29628** (media 0)
+- final chain: `f1acc99ac7dcd6a5608caf4aa7ac7b3864ffcb94a52161bb87ac561753933a1d`
+- prev: `42f164991848ef4ebc1858d50a8e6ea470922349077afad28cc50c526231c825` ← 前回から変化あり
+
+_hashes only. no file contents. timestamp = GitHub commit time._
